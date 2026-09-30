@@ -21,12 +21,13 @@ I'm a Web Application Development (DAW) student based in Málaga, blending my pa
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
 </p>
 
+<!-- 
 ### 📈 GitHub & Coding Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lperval2903&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/lperval2903)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lperval2903&layout=compact&theme=tokyonight)](https://github.com/lperval2903)
-
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=lperval2903&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lperval2903&layout=compact&theme=tokyonight"/>
+</div>
+-->
 #### ⏱️ Weekly Development Breakdown
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
