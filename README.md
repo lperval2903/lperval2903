@@ -22,10 +22,10 @@ I'm a Web Application Development (DAW) student based in Málaga, blending my pa
 </p>
 
 ### 📈 GitHub & Coding Stats
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=lperval2903&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lperval2903&layout=compact&theme=tokyonight"/>
-</div>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lperval2903&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/lperval2903)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lperval2903&layout=compact&theme=tokyonight)](https://github.com/lperval2903)
 
 #### ⏱️ Weekly Development Breakdown
 <!--START_SECTION:waka-->
