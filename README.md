@@ -1,13 +1,44 @@
-## Hi there, I'm Liberto!
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=DAW+Student+%40+IES+Bel%C3%A9n;Fullstack+Dev+%7C+Java+%26+React;E-Sports+Enthusiast+%26+Sysadmin" alt="Typing SVG" /></a>
+</div>
+
+## Hi there, I'm Mía 👋 
 
 I'm a Web Application Development (DAW) student based in Málaga, blending my passion for software engineering with competitive E-Sports and server administration. 
 
-Here is a bit more about me:
+### 🔭 What I'm currently working on
+- **Mooni Network:** A custom Fabric Minecraft server network featuring bespoke game modes (like Pankration) built with Java, alongside its web frontend using React and Vite.
+- **XendHub / Ezo Hub:** Analytics and performance dashboards for Counter-Strike 2.
+- **DAW @ IES Belén:** Finishing my vocational training while expanding my knowledge in Python data visualization and system architecture.
 
-- **I’m currently working on:** 
-  - **Mooni Network:** A custom Fabric Minecraft server network featuring bespoke game modes (like Pankration) built with Java, alongside its web frontend using React and Vite.
-  - **XendHub / Ezo Hub:** Analytics and performance dashboards for Counter-Strike 2.
-- **I’m currently learning:** Advanced Web Application Development (DAW) at IES Belén, while expanding my knowledge in Python data visualization (Matplotlib/NumPy) and Java modding.
-- **My Tech Stack:** JavaScript (React, Vite and learning Svelte 5), Java, Python, SQL, and Arch Linux server administration (systemd, NetworkManager, Velocity proxy).
-- **Ask me about:** E-Sports organization, competitive CS2 mechanics (ESEA Seasons: 56 and 58 / 26k+ Premier), custom Minecraft server infrastructure, or building budget high-refresh-rate setups.
-- **How to reach me:** libertoperez55@gmail.com or lperval2903@g.educaand.es.
+### 💻 Tech Stack & Tools
+<p>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
+</p>
+
+### 📈 GitHub & Coding Stats
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=tokyonight"/>
+</div>
+
+#### ⏱️ Weekly Development Breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+### 🎮 Gaming & E-Sports
+> _Fun fact: I analyze CS2 demo files with custom Python scripts by day, and grind FACEIT or optimize hardcore Minecraft mob farms by night._
+
+<p>
+  <a href="URL_DE_TU_STEAM"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/></a>
+  <a href="URL_DE_TU_FACEIT"><img src="https://img.shields.io/badge/FACEIT-%23FF5500.svg?style=for-the-badge&logo=faceit&logoColor=white" alt="FACEIT"/></a>
+</p>
+
+### 📫 How to reach me
+- **Email:** libertoperez55@gmail.com | lperval2903@g.educaand.es
+- **Ask me about:** E-Sports organization, competitive CS2 mechanics (ESEA S58 / 26k+ Premier), custom Minecraft server infrastructure.
