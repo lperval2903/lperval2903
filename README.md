@@ -28,8 +28,8 @@ I'm a Web Application Development (DAW) student based in Málaga, blending my pa
 </div>
 
 #### ⏱️ Weekly Development Breakdown
-START_SECTION:waka
-END_SECTION:waka
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### 🎮 Gaming & E-Sports
 > _Fun fact: I analyze CS2 demo files with custom Python scripts by day, and grind FACEIT or optimize hardcore Minecraft mob farms by night._
