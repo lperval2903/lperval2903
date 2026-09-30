@@ -32,7 +32,7 @@ I'm a Web Application Development (DAW) student based in Málaga, blending my pa
 <!--END_SECTION:waka-->
 
 ### 🎮 Gaming & E-Sports
-> _Fun fact: I analyze CS2 demo files with custom Python scripts by day, and grind FACEIT or optimize hardcore Minecraft mob farms by night._
+> _Fun fact: I Love videogames, CS2, Minecraft, Destiny 2, The Binding of Issac... There are some of my favorite games._
 
 <p>
   <a href="[URL_DE_TU_STEAM](https://steamcommunity.com/id/LiberSinon/)"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/></a>
