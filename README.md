@@ -23,8 +23,8 @@ I'm a Web Application Development (DAW) student based in Málaga, blending my pa
 
 ### 📈 GitHub & Coding Stats
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=tokyonight"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=lperval2903&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lperval2903&layout=compact&theme=tokyonight"/>
 </div>
 
 #### ⏱️ Weekly Development Breakdown
@@ -35,8 +35,8 @@ I'm a Web Application Development (DAW) student based in Málaga, blending my pa
 > _Fun fact: I analyze CS2 demo files with custom Python scripts by day, and grind FACEIT or optimize hardcore Minecraft mob farms by night._
 
 <p>
-  <a href="URL_DE_TU_STEAM"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/></a>
-  <a href="URL_DE_TU_FACEIT"><img src="https://img.shields.io/badge/FACEIT-%23FF5500.svg?style=for-the-badge&logo=faceit&logoColor=white" alt="FACEIT"/></a>
+  <a href="[URL_DE_TU_STEAM](https://steamcommunity.com/id/LiberSinon/)"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/></a>
+  <a href="[URL_DE_TU_FACEIT](https://www.faceit.com/es/players/LiberSinon)"><img src="https://img.shields.io/badge/FACEIT-%23FF5500.svg?style=for-the-badge&logo=faceit&logoColor=white" alt="FACEIT"/></a>
 </p>
 
 ### 📫 How to reach me
