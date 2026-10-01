@@ -25,8 +25,8 @@ I'm a Web Application Development (DAW) student based in Málaga, blending my pa
 > _Fun fact: I Love videogames, CS2, Minecraft, Destiny 2, The Binding of Issac... There are some of my favorite games._
 
 <p>
-  <a href="[URL_DE_TU_STEAM](https://steamcommunity.com/id/LiberSinon/)"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/></a>
-  <a href="[URL_DE_TU_FACEIT](https://www.faceit.com/es/players/LiberSinon)"><img src="https://img.shields.io/badge/FACEIT-%23FF5500.svg?style=for-the-badge&logo=faceit&logoColor=white" alt="FACEIT"/></a>
+  <a href="[https://steamcommunity.com/id/LiberSinon/](https://steamcommunity.com/id/LiberSinon/)"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/></a>
+  <a href="[https://steamcommunity.com/id/LiberSinon/](https://www.faceit.com/es/players/LiberSinon)"><img src="https://img.shields.io/badge/FACEIT-%23FF5500.svg?style=for-the-badge&logo=faceit&logoColor=white" alt="FACEIT"/></a>
 </p>
 
 ### 📫 How to reach me
