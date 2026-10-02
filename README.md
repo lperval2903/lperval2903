@@ -22,7 +22,7 @@ I'm a Web Application Development (DAW) student based in Málaga, blending my pa
 </p>
 
 ### 🎮 Gaming & E-Sports
-> _Fun fact: I Love videogames, CS2, Minecraft, Destiny 2, The Binding of Issac... There are some of my favorite games._
+> _Fun fact: I Love videogames, CS2, Minecraft, Destiny 2, The Binding of Issac... There are some pages of my profile games._
 
 <p>
   <a href="https://steamcommunity.com/id/LiberSinon/"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/></a>
