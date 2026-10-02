@@ -9,7 +9,7 @@ I'm a Web Application Development (DAW) student based in Málaga, blending my pa
 ### 🔭 What I'm currently working on
 - **Mooni Network:** A custom Fabric Minecraft server network featuring bespoke game modes (like Pankration) built with Java, alongside its web frontend using React and Vite.
 - **XendHub / Ezo Hub:** Analytics and performance dashboards for Counter-Strike 2.
-- **DAW @ IES Belén:** Finishing my vocational training while expanding my knowledge in Python data visualization and system architecture.
+- **DAW @ IES Belén:** Finishing my superior grade expanding my knowledge in Java, Angular, JavaScript, data visualization and system architecture.
 
 ### 💻 Tech Stack & Tools
 <p>
