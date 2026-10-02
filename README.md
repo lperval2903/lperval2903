@@ -31,4 +31,4 @@ I'm a Web Application Development (DAW) student based in Málaga, blending my pa
 
 ### 📫 How to reach me
 - **Email:** libertoperez55@gmail.com | lperval2903@g.educaand.es
-- **Ask me about:** E-Sports organization, competitive CS2 mechanics (ESEA S58 / 26k+ Premier), custom Minecraft server infrastructure.
+- **Ask me about:** E-Sports organization, competitive CS2 mechanics (ESEA S56 & S58 / 26k+ Premier), custom Minecraft server infrastructure.
